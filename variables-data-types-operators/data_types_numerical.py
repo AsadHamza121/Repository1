@@ -38,6 +38,16 @@ print(num_b <= num_c)
 print(num_a == num_b)
 print(num_a == num_c)
 
+# Casting - Changing things into strings or numbers
+str_number = '2049'
+print(type(str_number))
+print(type(int(str_number)))
+
+int_number2 = 2079
+print(type(str(int_number2)))
+
+int_number = int(str_number)
+print(type(int_number))
 
 # Lastly long and complex numbers
 
