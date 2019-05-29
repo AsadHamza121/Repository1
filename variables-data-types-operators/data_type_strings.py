@@ -23,7 +23,9 @@ print(example_text)
 example_text2 = f"{name} is {age * 2} years old"
 print(example_text2)
 
-# Useful methods (strip, lower and upper, length, capitalise, split)
+# Useful methods (strip, lower and upper, length, capitalise, split), len is a function and the rest are methods for strings,
+#len is not specific to strings
+
 example_text3 = "  HELLO"
 print(example_text3)
 print(example_text3.strip())
