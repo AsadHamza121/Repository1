@@ -39,3 +39,11 @@ print(num_a == num_b)
 print(num_a == num_c)
 
 
+# Lastly long and complex numbers
+
+# Long is an integer of unlimited size
+# Complex are numbers that have an additional +bJ
+    # b is a float
+    # J is the square root of -1
+
+
